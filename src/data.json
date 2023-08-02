@@ -1,0 +1,38 @@
+[
+
+    {
+        "id":1,
+        "title": "East Africa Regional Office",
+        "subtitles":[
+            "Regional Director",
+            "HR",
+            "Financial",
+            "IPC",
+            "field vep"
+    
+        ]
+    },
+
+    {
+        "id":2,
+        "title": "Kawangware",
+        "subtitles":[
+            "Center Director",
+            "Manager",
+            "Coordinator 2",
+            "Housekeep Crew"
+        ]
+    },
+
+    {
+        "id":3,
+        "title":"Gichagi",
+        "subtitles":[
+            "Center Director",
+            "Manager",
+            "Coordinator 2",
+            "Housekeep Crew"
+        ]
+
+    }
+]
