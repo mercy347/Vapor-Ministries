@@ -14,7 +14,7 @@ const JobList = ()=>{
 
     return (
        
-        <div className="w-full h-screen flex flex-col items-center bg-red-500 @media (min-width: 1280px) { ... }
+        <div className="w-full h-screen flex flex-col items-center bg-red-500 @media (min-width: 1536px) { ... }
         ">
             <div className="text-7xl flex justify-center flex-col items-center shadow-2xl shadow-lg shadow-white ">
                 <img alt="Logo" className="w-60 h-40" src={logo}/>
