@@ -1,4 +1,4 @@
-import JobList from "./components/joblist"
+import JobList from "./components/jobList"
 
 
 function App() {
